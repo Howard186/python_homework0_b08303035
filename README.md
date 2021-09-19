@@ -3,7 +3,7 @@ the thought of python zen
 
 我喜歡的幾句zen of python
 
-1. Readability counts.
+1. Readability counts.\\
    程式的可讀性是很重要的，不光是給自己看，與別人分享想法時，難以讀懂的程式碼使溝通更複雜
    我想這就是為什麼註解那麼重要的原因，程式碼也要寫的更加好懂、邏輯明確
  
